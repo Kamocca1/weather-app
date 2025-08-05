@@ -1,5 +1,5 @@
 {
-    "name": "template-repo",
+    "name": "weather-app",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -10,15 +10,15 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Kamocca1/template-repo.git"
+        "url": "git+https://github.com/Kamocca1/weather-app.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/Kamocca1/template-repo/issues"
+        "url": "https://github.com/Kamocca1/weather-app/issues"
     },
-    "homepage": "https://github.com/Kamocca1/template-repo#readme",
+    "homepage": "https://github.com/Kamocca1/weather-app#readme",
     "devDependencies": {
         "css-loader": "^7.1.2",
         "html-loader": "^5.1.0",
